@@ -1,6 +1,0 @@
-CourierLoginNegativeTest.class
-CourierCreationNegativeTest.class
-OrderCreationParameterizedTest.class
-getTenOrdersTest.class
-CourierLoginPositiveTest.class
-CourierCreationPositiveTest.class
