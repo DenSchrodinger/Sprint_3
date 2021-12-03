@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: ru.praktikumservices.qascooter.CourierCreationTest
--------------------------------------------------------------------------------
-Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.108 s - in ru.praktikumservices.qascooter.CourierCreationTest
