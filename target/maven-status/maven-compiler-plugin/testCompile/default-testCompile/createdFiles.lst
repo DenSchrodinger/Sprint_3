@@ -1,6 +1,6 @@
-CourierLoginNegativeTest.class
-CourierCreationNegativeTest.class
-OrderCreationParameterizedTest.class
-getTenOrdersTest.class
-CourierLoginPositiveTest.class
-CourierCreationPositiveTest.class
+ru\praktikumservices\qascooter\CourierCreationNegativeTest.class
+ru\praktikumservices\qascooter\CourierLoginNegativeTest.class
+ru\praktikumservices\qascooter\CourierLoginTest.class
+ru\praktikumservices\qascooter\OrdersTest.class
+ru\praktikumservices\qascooter\CourierCreationTest.class
+ru\praktikumservices\qascooter\OrderCreationParameterizedTest.class

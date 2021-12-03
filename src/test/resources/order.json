@@ -1,9 +1,0 @@
-{
-	"firstName": "Питер",
-	"lastName": "Гриффин",
-	"address": "Мой адрес сегодня такой...",
-	"metroStation": "5",
-	"phone": "+7 999 555 2211",
-	"rentTime": 3,
-	"deliveryDate": "2021-11-11",
-	"comment": "Comment for JSON"

@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: ru.praktikumservices.qascooter.CourierLoginNegativeTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 7.24 s <<< FAILURE! - in ru.praktikumservices.qascooter.CourierLoginNegativeTest
+courierLoginWithoutPasswordTest(ru.praktikumservices.qascooter.CourierLoginNegativeTest)  Time elapsed: 7.015 s  <<< ERROR!
+org.junit.runners.model.TestTimedOutException: test timed out after 7000 milliseconds
+	at app//ru.praktikumservices.qascooter.CourierLoginNegativeTest.courierLoginWithoutPasswordTest(CourierLoginNegativeTest.java:41)
+
